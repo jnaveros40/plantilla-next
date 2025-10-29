@@ -164,10 +164,6 @@ npm run start
 - 🌐 [Website](https://ingnavs.vercel.app/)
 - 📱 WhatsApp: +57 302 509 1063
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Siéntete libre de usarlo para tus proyectos personales o comerciales.
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor:
